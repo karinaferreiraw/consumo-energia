@@ -1,4 +1,4 @@
-# Calculadora de Consumo Energético Inteligente 💡
+# Calculadora de Consumo Energético Inteligente💡
 
 <br>
 
@@ -7,9 +7,10 @@
 <br>
 
 A Linguagem usada foi Python 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
 <br>
 
 🔹A Fórmula utilizada para o cálculo é: 
@@ -18,14 +19,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 <br>
 
 🔹Instruções para executar o programa:  
-Escreva o nome do seu aparelho;  
-Digite a Potência desse aparelho;  
-E por fim, digite qual o tempo médio você utiliza esse aparelho diariamente. 
-E espere pelo resultado!
+→ Escreva o nome do seu aparelho;  
+→ Digite a Potência desse aparelho;  
+→ E por fim, digite qual o tempo médio você utiliza esse aparelho diariamente.  
+→ E espere pelo resultado!
 
 <br>
 
-Faça isso com todos seus aparelhos, quanto mais souber e como utilizar de forma a consumir energia elétrica, melhor será!
+Faça isso com todos seus aparelhos, quanto mais aparelhos souber sobre o consumo e como consumir, de forma correta, energia elétrica, melhor será!
 
 <br>
 

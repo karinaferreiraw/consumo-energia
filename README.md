@@ -9,7 +9,9 @@
 A Linguagem usada foi Python 
 <div style="display: inline_block">
 <img align="center" alt="Python" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
+
+<br>
 
 <br>
 
@@ -26,8 +28,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 <br>
 
-Faça isso com todos seus aparelhos, quanto mais aparelhos souber sobre o consumo e como consumir, de forma correta, energia elétrica, melhor será!
+Faça isso com todos seus aparelhos, quanto mais aparelhos souber sobre o consumo e como consumir de forma correta a energia elétrica, melhor será!
 
 <br>
 
-# O PLANETA AGRADECE 🌱🌍
+# O PLANETA AGRADECE 🌍🌱

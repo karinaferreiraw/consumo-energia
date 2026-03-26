@@ -28,7 +28,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 <br>
 
-Faça isso com todos seus aparelhos, quanto mais aparelhos souber sobre o consumo e como consumir de forma correta a energia elétrica, melhor será!
+Faça isso com todos os seus aparelhos. Quanto mais aparelhos souberem sobre o consumo e como utilizar corretamente a energia elétrica, melhor será!
 
 <br>
 
